@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleDevelopmentRegion</key><string>zh_CN</string>
+  <key>CFBundleDisplayName</key><string>轻录</string>
+  <key>CFBundleExecutable</key><string>QingLu</string>
+  <key>CFBundleIdentifier</key><string>app.qinglu.recorder</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+  <key>CFBundleName</key><string>轻录</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.2.1</string>
+  <key>CFBundleVersion</key><string>4</string>
+  <key>LSMinimumSystemVersion</key><string>15.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+  <key>NSCameraUsageDescription</key><string>用于在教学录屏中加入摄像头画中画。</string>
+  <key>NSMicrophoneUsageDescription</key><string>用于在录屏时录制讲解人声。</string>
+  <key>NSAudioCaptureUsageDescription</key><string>用于录制 Mac 播放的系统内部声音。</string>
+  <key>NSScreenCaptureUsageDescription</key><string>用于录制全屏或您框选的屏幕区域。</string>
+</dict></plist>

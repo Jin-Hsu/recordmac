@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+dist/
+work/
+*.mp4
+*.mov
+*.dmg
+*.zip
+*.log
+*.p12
+*.mobileprovision
+.env
+xcuserdata/
